@@ -29,5 +29,5 @@ and calculate grades based on average marks.
 
 ## How to Run
 ```bash
-gcc mark_analyzer.c -o mark_analyzer
-./mark_analyzer
+gcc main.c -o main
+./main
